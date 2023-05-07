@@ -8,8 +8,6 @@ window.Main = class{
     Build(){
         let scope = this;
 
-        scope.ChangeColor();
-        scope.ChangeColor();
     }
 
     ChangeColor(){
