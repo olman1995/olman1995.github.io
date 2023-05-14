@@ -1,0 +1,113 @@
+@font-face {
+    font-family: 'SteelFish';
+    src: url(../fonts/steelfish\ bd.woff2);
+
+}
+@font-face {
+    font-family: 'GeoSans';
+    src: url(../fonts/GeosansLight.woff2);
+}
+
+@font-face {
+    font-family: 'TIMESS';
+    src: url(../fonts/TIMESS__.woff2);
+}
+@font-face {
+    font-family: 'DAYROM';
+    src: url(../fonts/DAYROM__.woff2);
+}
+
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #BFBFBD;
+}
+
+.full{
+    height: 100%;
+}
+.half{
+    height: 50%;
+}
+.quarter{
+    height: 25%;
+}
+.cell1{
+    height: 10%;
+}
+.cell2{
+    height: 20%;
+}
+.cell3{
+    height: 30%;
+}
+.cell4{
+    height: 40%;
+}
+.cell5{
+    height: 50%;
+}
+.cell6{
+    height: 60%;
+}
+.cell7{
+    height: 70%;
+}
+.cell8{
+    height: 80%;
+}
+.cell9{
+    height: 90%;
+}
+.cell10{
+    height: 100%;
+}
+
+.c1 { color: #148DD9; }
+.c2 { color: #BFBFBD; }
+.c3 { color: #8C4C14; }
+.c4 { color: #F2F2F2; }
+.c5 { color: #0D0D0D; }
+
+.bg1 { background-color: #148DD9; }
+.bg2 { background-color: #BFBFBD; }
+.bg3 { background-color: #8C4C14; }
+.bg4 { background-color: #F2F2F2; }
+.bg5 { background-color: #0D0D0D; }
+
+h1{
+    font-family: 'DAYROM';
+}
+h2{font-family: 'DAYROM';}
+h3{font-family: 'DAYROM';}
+h4{font-family: 'DAYROM';}
+h5{font-family: 'DAYROM';}
+h6{font-family: 'DAYROM';}
+
+p{ 
+    font-family: 'GeoSans';
+    font-size: 18px;
+  
+}
+
+.divHead{
+    height: 10%;
+    padding-top: 10px;
+    padding-left: l0px;
+}
+.divBody{
+    height: 70%;
+}
+.divFooter{
+    height: 20%;
+}
