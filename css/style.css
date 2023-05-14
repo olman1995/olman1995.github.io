@@ -432,7 +432,7 @@ button {
 /** banner section **/
 
 .full_bg {
-    background: url(../images/banner.jpg);
+    background: url(../images/texture.png);
     height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
